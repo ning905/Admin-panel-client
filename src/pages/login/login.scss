@@ -1,0 +1,36 @@
+.login,
+.signUp {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+	h2 {
+		margin: 2rem 0;
+	}
+
+	.box {
+		display: flex;
+		flex-direction: column;
+		margin-bottom: 1rem;
+		align-items: center;
+
+		button {
+			margin-top: 1.5rem;
+			width: 25ch;
+			height: 40px;
+			border: none;
+			background-color: #7451f8;
+			color: white;
+			font-weight: bold;
+			cursor: pointer;
+		}
+	}
+
+	span {
+		font-size: 16px;
+		color: red;
+		margin: 0 0 10px 0;
+	}
+}
