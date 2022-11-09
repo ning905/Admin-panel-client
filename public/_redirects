@@ -1,0 +1,2 @@
+/api/* http://adminpanel-env.eba-vy4hpgsm.eu-west-2.elasticbeanstalk.com/:splat 200!
+/* /index.html 200
