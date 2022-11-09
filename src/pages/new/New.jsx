@@ -103,6 +103,7 @@ export default function New() {
 					}, "3000")
 				})
 		}
+		// eslint-disable-next-line
 	}, [currentUser, location, params, page.action])
 
 	function handleUploadFile(e) {
